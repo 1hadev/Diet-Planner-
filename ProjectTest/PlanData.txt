@@ -1,0 +1,119 @@
+!1
+Vegetarian Breakfast Burrito with Tofu Scramble
+Fill it with tofu scramble, black beans, cheese, avocado, and salsa.
+650.0
+Beef and Vegetable Curry with Rice
+Slow-cooked beef and vegetables in a flavorful curry sauce, served with rice
+850.0
+Spicy Meatballs
+Savory meatballs simmered in a spicy tomato sauce
+300.0
+Beef Burrito
+Flour tortilla filled with seasoned beef, rice, beans, cheese, and salsa.
+820.0
+Chicken Carbonara
+Creamy pasta dish with chicken, bacon, eggs, Parmesan cheese, and black pepper.
+850.0
+@1
+!2
+Vegetarian Breakfast Burrito with Tofu Scramble
+Fill it with tofu scramble, black beans, cheese, avocado, and salsa.
+650.0
+Honey Glazed Ham
+Ham coated with a sweet and sticky honey glaze
+406.5
+Chicken Alfredo Pasta
+Creamy pasta dish with grilled chicken and Alfredo sauce
+400.0
+BBQ Ribs
+Tender pork ribs slow-cooked and glazed with tangy barbecue sauce
+500.0
+Sweet Potato and Black Bean Chili
+Hearty and satisfying chili with sweet potatoes and black beans
+550.0
+Stuffed Chicken Breast
+Chicken breast stuffed with spinach, feta cheese, and herbs
+380.0
+@2
+*
+Name:Shadev
+Gender:M
+Weight:69.0(kg)
+Height:184.0(cm)
+Age:19
+Demand weight:75.0(kg)
+Sport mode:3
+No of Days:3
+----
+#
+Seated leg curls
+Glute bridges
+Tricep dips on a chair
+Standing forward lunges
+$
+!3
+Vegetable Frittata with Goat Cheese
+Bake a fluffy frittata filled with mixed vegetables and creamy goat cheese.
+650.0
+Vegetable Paella
+Enjoy a traditional Spanish paella loaded with colorful vegetables, saffron-infused rice, and savory flavors.
+600.0
+Veggie Omelette
+Protein-packed omelette with assorted vegetables
+158.8
+Three Cheese Stuffed Shells
+Jumbo pasta shells stuffed with a blend of ricotta, mozzarella, and Parmesan cheese, baked in marinara sauce
+708.0
+Mushroom Risotto
+Creamy and flavorful rice dish with mushrooms
+410.0
+@3
+*
+Name:Shadev
+Gender:M
+Weight:71.0(kg)
+Height:184.0(cm)
+Age:19
+Demand weight:75.0(kg)
+Sport mode:3
+No of Days:4
+----
+!4
+Eggs Benedict Florentine
+Enjoy poached eggs and sautéed spinach on an English muffin, topped with rich Hollandaise sauce.
+648.98
+Spinach and Mushroom Stuffed Shells with Alfredo Sauce
+Enjoy stuffed pasta shells filled with a delicious spinach and mushroom mixture, topped with creamy Alfredo sauce.
+750.0
+Black Bean Quesadilla
+Cheesy quesadilla filled with black beans and vegetables
+120.0
+Tofu Stir-Fry
+Stir-fried tofu rich in protein
+100.0
+Three Cheese Stuffed Shells
+Jumbo pasta shells stuffed with a blend of ricotta, mozzarella, and Parmesan cheese, baked in marinara sauce
+708.0
+Chickpea Salad Sandwich
+Protein-rich salad made with chickpeas, mayo, and vegetables, served in a sandwich
+442.8
+Shadev 
+N/A
+500.0
+@4
+*
+Name:Shadev
+Gender:M
+Weight:69.0(kg)
+Height:184.0(cm)
+Age:19
+Demand weight:75.0(kg)
+Sport mode:3
+No of Days:5
+----
+#
+Seated leg extensions
+Bird dog
+Bodyweight squats
+Seated leg extensions
+$
